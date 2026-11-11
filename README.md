@@ -5,10 +5,10 @@
 **Balance Sheet Buddy (BSB)** is a modular, end-to-end system that:
 - Scrapes financial, sentiment, and options data for 700+ equities
 - Feeds an ML model (Random Forest / XGBoost) for trade signal generation
-- Outputs visual insights to a live Tableau dashboard
+- Outputs visual insights to a public Tableau dashboard
 
 **View the Dashboard:** 
-[Daily Market Insights on Tableau](https://public.tableau.com/app/profile/tiago.abreu/viz/DailyMarketInsightsPriceActionMomentum/EquityInsightsDashboard?publish=yes)
+[Daily Market Insights on Tableau](https://public.tableau.com/app/profile/tiago.abreu/viz/DailyMarketInsightsPriceActionMomentum/EquityInsightsDashboard)
 
 
 ---
